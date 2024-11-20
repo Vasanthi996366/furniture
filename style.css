@@ -1,0 +1,15 @@
+   .content{
+    position:absolute;
+    top: 500px;
+    left:20px;
+    }
+    #btn1 button:hover{
+        background-color: rgb(16, 71, 99);
+    }   
+    #btn2 button:hover{
+        background-color: rgba(238,224,208);
+    }
+    #mycard:hover{
+        transform: translateY(-5px);
+    }
+        
